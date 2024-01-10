@@ -1,4 +1,6 @@
-### Hi I'm Rafael👋
+### Hi I'm Rafael 👋
+
+I'm a Level 2 Mechatronics and Biomedical Engineering at McMaster Univerity, and an aspiring programer 
 
 # Programming Languages
 
