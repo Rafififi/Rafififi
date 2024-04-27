@@ -9,6 +9,7 @@ I'm a Level 2 Mechatronics and Biomedical Engineering at McMaster Univerity, and
 # Tools
 [![Programming Languages](https://skillicons.dev/icons?i=linux,neovim,vscode)](https://skillicons.dev)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafififi&langs_count=8&theme=nord&hide=html)](https://github.com/Rafififi/)
 
 <!--
 **Rafififi/Rafififi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
