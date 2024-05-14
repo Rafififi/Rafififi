@@ -4,7 +4,7 @@ I'm a Level 2 Mechatronics and Biomedical Engineering at McMaster Univerity, and
 
 # Programming Languages
 
-[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,py,rust,bash,js,matlab)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,py,rust,bash,js,matlab,haskell)](https://skillicons.dev)
 
 # Tools
 [![Programming Languages](https://skillicons.dev/icons?i=linux,neovim,vscode)](https://skillicons.dev)
